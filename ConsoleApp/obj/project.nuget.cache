@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nM/6ruzGb03o/UWALgPhhnMyajwsBMgipQvKnvs+1WsdQHUNue+EJB+anZvBYzPiGOWo7TdmDqe1PUAXEc2Baw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Praveen\\Try\\jenkins\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Praveen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\Praveen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

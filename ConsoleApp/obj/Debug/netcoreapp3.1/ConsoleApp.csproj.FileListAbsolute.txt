@@ -1,0 +1,14 @@
+C:\Projects\Praveen\Try\jenkins\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Projects\Praveen\Try\jenkins\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Projects\Praveen\Try\jenkins\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Projects\Praveen\Try\jenkins\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Projects\Praveen\Try\jenkins\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Projects\Praveen\Try\jenkins\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Projects\Praveen\Try\jenkins\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+C:\Projects\Praveen\Try\jenkins\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Praveen\Try\jenkins\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Projects\Praveen\Try\jenkins\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Projects\Praveen\Try\jenkins\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projects\Praveen\Try\jenkins\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Projects\Praveen\Try\jenkins\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Projects\Praveen\Try\jenkins\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
